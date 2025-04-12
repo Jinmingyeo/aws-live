@@ -13,7 +13,7 @@ db_conn = connections.Connection(
     host="Unnamed",
     port=3306,
     user="aws_user",
-    password="Bait3273,
+    password="Bait3273",
     db="employee"
 
 )
