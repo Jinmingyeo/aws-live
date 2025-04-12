@@ -10,7 +10,7 @@ bucket = "yeojinming_employee"
 region = "us-east-1"
 
 db_conn = connections.Connection(
-    host="Unnamed",
+    host="employee.cdo1v3c6fbpj.us-east-1.rds.amazonaws.com",
     port=3306,
     user="aws_user",
     password="Bait3273",
